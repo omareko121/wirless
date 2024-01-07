@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395068846118",
+    "project_id": "wirless-app-2c51e",
+    "storage_bucket": "wirless-app-2c51e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395068846118:android:9014864fc4729e7a8936e7",
+        "android_client_info": {
+          "package_name": "com.wirless.wirless"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ifMsX7B7NaVA-OPbbPsbyKYAZbNomJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

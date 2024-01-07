@@ -1,0 +1,4 @@
+class ApiStripe {
+  static const String paymentApikey =  'sk_test_51Neg23F8SIFelMpDqELSwTlq1FkfVCSmQ9Ma2S1C8xr8MvhaAFmR1O5sriEl5YF4vADBjBohOE6XseZVlGYLTaGc00VE27x0o2';
+  static const String paymentpubkey =  'pk_test_51Neg23F8SIFelMpD9PCUjXDxsDM1MupzSRwYSK9BNJ9Sq5dg9RlRKRm784sDr40ELs6S5zmnKEjds8SmrJRigqwo008msw60aX';
+}

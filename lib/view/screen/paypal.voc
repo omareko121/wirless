@@ -1,0 +1,20 @@
+"amount": {
+                                  "total": '${controller.totalPrice}',
+                                  "currency": "USD",
+                                  "details": {
+                                    "subtotal": '${controller.totalPrice}',
+                                    "shipping": '0',
+                                    "shipping_discount": '0'
+                                  }
+                                },
+
+
+                                  "description":
+                                    "احنا موجودين معك خطوه بخطوه لين نتاكد ان الساعة صارت بالفعل على يدك لا تنسى تتواصل معانا دايما",
+
+
+
+                                    "name": "Watch",
+                                      "quantity": '1',
+                                      "price": '${controller.totalPrice}',
+                                      "currency": "USD"
